@@ -2,6 +2,7 @@
 
 Este proyecto consiste en una página web desarrollada en **HTML** (con apoyo de CSS y JavaScript, si aplica) cuyo objetivo es mostrar información sobre distintos tipos de **cámaras fotográficas y de video**, sus características y usos.
 
+
 ## 🚀 Características
 
 - Diseño sencillo y responsive  
